@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   generator: 'Next.js',
 }
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
